@@ -10,6 +10,7 @@ python -m buzz
 ```
 2. Refer to buzz's [CLI documentation](https://chidiwilliams.github.io/buzz/docs/cli) for usage details
 ## Key Implementation Ideas
+1.  Use a dictionary and apply LCS algorithm to find matching words in the target dialect
 ## Key Research Papers
 1. [A Comprehensive Dialect Conversion Approach from Chittagonian to Standard Bangla](https://www.researchgate.net/publication/342467631_A_Comprehensive_Dialect_Conversion_Approach_from_Chittagonian_to_Standard_Bangla)
 2. [Mandarin to Lanzhou dialect conversion based on Five Degree Tone Model](https://ieeexplore.ieee.org/document/5684863)
